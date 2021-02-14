@@ -1,16 +1,37 @@
-### Hi there 👋
+### Bhargav Annem
+Hi there 👋, I am Bhargav and I am a programmer located in Austin, Texas. I love computer science, robotics, and others. Specifically, I am fascinated by all of the new technologies that constantly emmerge in the world of CS and I love to utilize them to build cool projects. 
 
-<!--
-**bhargavannem/bhargavannem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+# Programming Languages
+- Python
+- Java
+- C++
+- C
+- R
+- Javascript
+- HTML (I know it technically doesn't count as a programming language)
+- CSS (likewise)
+- JSX
+- Typescript
 
-Here are some ideas to get you started:
+# Frameworks
+- ReactJS
+- Django
+- Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Machine Learning 🤖
+- Pytorch
+- Tensorflow
+- FastAI
+- Sklearn (not as well as the others)
+
+# Misc.
+- Linux/GNU
+  - Dotfiles and stuff
+- Docker
+- Firebase
+
+### Contact Me! 📧
+- Email: bhargav.annem@gmail.com
+- Github: github.com/bhargavannem
+ 
