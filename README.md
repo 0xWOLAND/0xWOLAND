@@ -27,7 +27,7 @@ Hi there 👋, I am Bhargav and I am a programmer located in Austin, Texas. I lo
 - Pytorch
 - Tensorflow
 - FastAI
-- Sklearn (not as well as the others)
+- Sklearn *(familiar)*
 
 ## Misc.
 - Linux/GNU
