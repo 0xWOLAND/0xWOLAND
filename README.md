@@ -9,12 +9,14 @@ Hi there 👋, I am Bhargav and I am a programmer located in Austin, Texas. I lo
 - Java
 - C++
 - C
-- R
 - Javascript
+- Typescript
+- Golang
 - HTML (I know it technically doesn't count as a programming language)
 - CSS (likewise)
 - JSX
-- Typescript
+- Swift *(familiar)*
+- R *(familiar)*
 
 ## Frameworks
 - ReactJS
