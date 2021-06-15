@@ -15,6 +15,7 @@ Hi there 👋, I am Bhargav and I am a programmer located in Austin, Texas. I lo
 - HTML (I know it technically doesn't count as a programming language)
 - CSS (likewise)
 - JSX
+- Spark SQL
 - Swift *(familiar)*
 - R *(familiar)*
 
