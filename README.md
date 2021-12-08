@@ -6,10 +6,9 @@
 - C++
 - C
 - Javascript
-- Typescript
+- Lua
 - HTML
-- CSS 
-- JSX
+- CSS
 - Spark SQL
 - Swift *(familiar)*
 - R *(familiar)*
