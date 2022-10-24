@@ -11,6 +11,7 @@
 - Spark SQL
 - PostgreSQL
 - Rust
+- Verilog/VHDL
 - Swift *(familiar)*
 - R *(familiar)*
 
