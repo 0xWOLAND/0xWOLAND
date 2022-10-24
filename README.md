@@ -6,17 +6,13 @@
 - C++
 - C
 - Javascript
-- Lua
-- HTML
-- CSS
+- ASM
+- HTML/CSS (don't really count though)
 - Spark SQL
+- PostgreSQL
+- Rust
 - Swift *(familiar)*
 - R *(familiar)*
-
-## Frameworks
-- ReactJS
-- Django
-- Flask
 
 ## Machine Learning
 - Pytorch
@@ -39,7 +35,7 @@
   - Github
   - Bitbucket
   - GitLab
-- AWS S3
+- AWS (Lambdas, S3, EC2, SAM)
 - Atlassian Suite of Tools
   - Jira
   - Confluence  
